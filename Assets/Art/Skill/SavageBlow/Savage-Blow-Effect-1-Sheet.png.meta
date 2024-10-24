@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 777c5a8023eb34349af8209a6957b1bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cc5abaef68e89459f38378caef9449
+      internalID: 2114079297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 390
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f3e7dc46d2dff48b480cea355c5ba9
+      internalID: -1278577019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 390
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f47b76f7a382bd4ab8232393e035ed3
+      internalID: 917650243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 390
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ecb1e1027ed041b68d3b8f6187b06
+      internalID: -1467255416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0df168230548664b88159e039c018c2
+      internalID: 532262790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 195
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a8d722b440db14199894b0d11872a7
+      internalID: -247995830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 195
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7f617ef011b694c9cf515f505834fe
+      internalID: 707653723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 195
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a973bd8cd19cb045bc51d02c6cfc286
+      internalID: 2011094473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9ad643d30bed04daa20495beadbd4b
+      internalID: -414420636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage-Blow-Effect-1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 415
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8, y: 0.103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0882deb786598e446be2a015cfbacaa7
+      internalID: 191422618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Savage-Blow-Effect-1-Sheet_0: 2114079297
+      Savage-Blow-Effect-1-Sheet_1: -1278577019
+      Savage-Blow-Effect-1-Sheet_2: 917650243
+      Savage-Blow-Effect-1-Sheet_3: -1467255416
+      Savage-Blow-Effect-1-Sheet_4: 532262790
+      Savage-Blow-Effect-1-Sheet_5: -247995830
+      Savage-Blow-Effect-1-Sheet_6: 707653723
+      Savage-Blow-Effect-1-Sheet_7: 2011094473
+      Savage-Blow-Effect-1-Sheet_8: -414420636
+      Savage-Blow-Effect-1-Sheet_9: 191422618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
