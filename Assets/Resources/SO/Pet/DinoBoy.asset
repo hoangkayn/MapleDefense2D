@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 318587dc8a96849dab38877f1afaace1, type: 3}
+  m_Name: DinoBoy
+  m_EditorClassIdentifier: 
+  idName: DinoBoy
+  price: 700
+  iconPet: {fileID: -332513817, guid: 4e005a7c107a19b489fcd9a2681cb107, type: 3}
+  petRank: 0
+  itemBonus:
+  - rewardSO: {fileID: 11400000, guid: 760e0fe936c4a4de387f53c4063b46cb, type: 2}
+    bonusMultiplier: 2
+  specialBonus: []
+  animatorController: {fileID: 9100000, guid: e2be3cd5afe5dd4419e606f2af21e293, type: 2}
+  description: "Dino Boy r\u1EA5t th\xEDch g\u1EA7m g\u1EEB, d\xF9 \u0111\xF4i khi
+    g\u1EA7m sai h\u01B0\u1EDBng. Nh\u01B0ng h\xE3y y\xEAn t\xE2m \u2013 khi b\u1EA1n
+    c\u1EA7n, c\u1EADu s\u1EBD lu\xF4n x\xF4ng l\xEAn tr\u01B0\u1EDBc v\xE0\u2026
+    c\u1EAFn \u0111\u1EA1i!"

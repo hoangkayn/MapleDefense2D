@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 318587dc8a96849dab38877f1afaace1, type: 3}
+  m_Name: Pink Bunny
+  m_EditorClassIdentifier: 
+  idName: PinkBunny
+  price: 700
+  iconPet: {fileID: 734568680, guid: 305922cda90d7464a9debb4bf1a7bd85, type: 3}
+  petRank: 0
+  itemBonus:
+  - rewardSO: {fileID: 11400000, guid: c75d2eab789404bfe95aabad8efbc268, type: 2}
+    bonusMultiplier: 2
+  specialBonus: []
+  animatorController: {fileID: 9100000, guid: ad3cb0887eb95ae4ea881827fc307f10, type: 2}
+  description: "Nh\xECn l\xE0 mu\u1ED1n \xF4m, nh\u01B0ng coi ch\u1EEBng b\u1ECB
+    \u0111\xE1 v\xE0o m\u1EB7t! Pink Bunny v\u1EEBa ng\u1ECDt ng\xE0o v\u1EEBa\u2026
+    h\u01A1i n\xF3ng t\xEDnh."

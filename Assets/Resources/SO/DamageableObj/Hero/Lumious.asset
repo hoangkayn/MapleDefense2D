@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb54e7db5e5874744b08262b6fd279c3, type: 3}
+  m_Name: Lumious
+  m_EditorClassIdentifier: 
+  soundData: {fileID: 11400000, guid: b90c96f398cad4b05bde44eec99ed718, type: 2}
+  bulletName: 0
+  spawnTime: 4
+  heroId: Lumious
+  levelStats:
+  - level: 1
+    maxHp: 70
+    dame: 5
+    dameSkill: 0
+    objPricent: 9
+    maxMp: 50
+    upgradeCost: 0
+    hpPercentHeal: 20
+    freezeTime: 0
+  - level: 2
+    maxHp: 100
+    dame: 10
+    dameSkill: 0
+    objPricent: 7
+    maxMp: 50
+    upgradeCost: 5000
+    hpPercentHeal: 25
+    freezeTime: 0
+  - level: 3
+    maxHp: 120
+    dame: 15
+    dameSkill: 0
+    objPricent: 8
+    maxMp: 70
+    upgradeCost: 10000
+    hpPercentHeal: 40
+    freezeTime: 0
+  avtHero: {fileID: 21300000, guid: 90a606dc7849a034ca6803a8c490cdc4, type: 3}
+  bgHero: {fileID: 21300000, guid: a7d708ac9618cc54588a716545e7fbee, type: 3}
+  skillDescription: "Tri\u1EC7u h\u1ED3i n\u0103ng l\u01B0\u1EE3ng linh thi\xEAng
+    h\u1ED3i {hpPercent} m\xE1u"
+  skillImage: {fileID: 21300000, guid: 2cf2e6f33d793574e8348cb606978da2, type: 3}

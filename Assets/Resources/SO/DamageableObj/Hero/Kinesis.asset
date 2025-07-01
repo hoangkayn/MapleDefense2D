@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb54e7db5e5874744b08262b6fd279c3, type: 3}
+  m_Name: Kinesis
+  m_EditorClassIdentifier: 
+  soundData: {fileID: 11400000, guid: e461bffc97e89437992513e0fcbb8cb6, type: 2}
+  bulletName: 0
+  spawnTime: 4
+  heroId: Kinesis
+  levelStats:
+  - level: 1
+    maxHp: 60
+    dame: 20
+    dameSkill: 35
+    objPricent: 12
+    maxMp: 60
+    upgradeCost: 0
+    hpPercentHeal: 0
+    freezeTime: 0
+  - level: 2
+    maxHp: 80
+    dame: 25
+    dameSkill: 45
+    objPricent: 15
+    maxMp: 65
+    upgradeCost: 7000
+    hpPercentHeal: 0
+    freezeTime: 0
+  - level: 3
+    maxHp: 100
+    dame: 35
+    dameSkill: 75
+    objPricent: 17
+    maxMp: 80
+    upgradeCost: 12000
+    hpPercentHeal: 0
+    freezeTime: 0
+  avtHero: {fileID: 21300000, guid: b4dfd061fdee4f8448fe4b0161046f64, type: 3}
+  bgHero: {fileID: 21300000, guid: 8f001a951c1389747aa9f5feca5a4d80, type: 3}
+  skillDescription: "S\u1EED d\u1EE5ng tuy\u1EC7t k\u0129 g\xE2y {damage} s\xE1t
+    th\u01B0\u01A1ng di\u1EC7n r\u1ED9ng"
+  skillImage: {fileID: 21300000, guid: 57d9ea7fefc5981419c67af542d113d7, type: 3}

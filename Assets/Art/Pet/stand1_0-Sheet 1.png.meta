@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 5ee6717e15bb08949b9ae14ad534e7b1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f34432225e7f48aae17b656c68788
+      internalID: 561292918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f060b6021915394fb4a8363471d2025
+      internalID: 664427590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212d39b7aaf7dd4d8d785bdad2f338b
+      internalID: -307677187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e93b35d6d78bc47b5e91af2a89d704
+      internalID: -1114652966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f4beec97c176b40aae23204618bd44
+      internalID: -167264721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feddef909e189a34a8f5b54a7e9b5b25
+      internalID: 1292437327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1306e2517a8fc46aaaab5633cd45a0
+      internalID: 1848641798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0bb17e0bc92746986f03f103aad73
+      internalID: -1245585818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a655471a2813ce4b942635950fdf5b3
+      internalID: 1830690378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d781772e468842a8ede58729c71dc
+      internalID: 1540233403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7a3753d745cd49ba6ae5643ed1bef
+      internalID: -1205445876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand1_0-Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.442, y: 0.311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a83a4fa57f5e45891570025928a2c
+      internalID: -315949279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stand1_0-Sheet 1_0: 561292918
+      stand1_0-Sheet 1_1: 664427590
+      stand1_0-Sheet 1_10: -1205445876
+      stand1_0-Sheet 1_11: -315949279
+      stand1_0-Sheet 1_2: -307677187
+      stand1_0-Sheet 1_3: -1114652966
+      stand1_0-Sheet 1_4: -167264721
+      stand1_0-Sheet 1_5: 1292437327
+      stand1_0-Sheet 1_6: 1848641798
+      stand1_0-Sheet 1_7: -1245585818
+      stand1_0-Sheet 1_8: 1830690378
+      stand1_0-Sheet 1_9: 1540233403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

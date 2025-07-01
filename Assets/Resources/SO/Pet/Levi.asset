@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 318587dc8a96849dab38877f1afaace1, type: 3}
+  m_Name: Levi
+  m_EditorClassIdentifier: 
+  idName: Levi
+  price: 8000
+  iconPet: {fileID: 1149990086, guid: e19e5f8c66eb2a44b8c2f2edcb949f9f, type: 3}
+  petRank: 2
+  itemBonus:
+  - rewardSO: {fileID: 11400000, guid: 760e0fe936c4a4de387f53c4063b46cb, type: 2}
+    bonusMultiplier: 10
+  - rewardSO: {fileID: 11400000, guid: c75d2eab789404bfe95aabad8efbc268, type: 2}
+    bonusMultiplier: 5
+  specialBonus:
+  - specialReward: 0
+    bonusMultiplier: 1
+  animatorController: {fileID: 9100000, guid: e54881c13a02cd44da4a64aba188b05a, type: 2}
+  description: "Levi l\xE0 sinh v\u1EADt truy\u1EC1n thuy\u1EBFt \u0111\u01B0\u1EE3c
+    \u0111\u1ED3n \u0111\u1EA1i l\xE0 c\xF3 th\u1EC3 \u0111i\u1EC1u khi\u1EC3n v\u1EADn
+    may \u2013 m\u1ED7i b\u01B0\u1EDBc ch\xE2n l\xE0 m\u1ED9t l\u1EDDi ch\xFAc t\xE0i
+    l\u1ED9c, m\u1ED7i l\u1EA7n xu\u1EA5t hi\u1EC7n l\xE0 m\u1ED9t tr\u1EADn m\u01B0a
+    v\xE0ng r\u01A1i r\u1EDBt."

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 318587dc8a96849dab38877f1afaace1, type: 3}
+  m_Name: LilDeath
+  m_EditorClassIdentifier: 
+  idName: LilDeath
+  price: 8000
+  iconPet: {fileID: 561292918, guid: 5ee6717e15bb08949b9ae14ad534e7b1, type: 3}
+  petRank: 2
+  itemBonus:
+  - rewardSO: {fileID: 11400000, guid: 760e0fe936c4a4de387f53c4063b46cb, type: 2}
+    bonusMultiplier: 4
+  - rewardSO: {fileID: 11400000, guid: c75d2eab789404bfe95aabad8efbc268, type: 2}
+    bonusMultiplier: 4
+  specialBonus:
+  - specialReward: 0
+    bonusMultiplier: 3
+  animatorController: {fileID: 9100000, guid: 25f85c5c23dd0f3478ff4adf875727a3, type: 2}
+  description: "LilDeath \u2013 M\u1ED9t sinh v\u1EADt truy\u1EC1n thuy\u1EBFt. \u0110\xE1ng
+    y\xEAu, th\u1EA7n b\xED, v\xE0 n\u1EAFm gi\u1EEF s\u1EE9c m\u1EA1nh xoay chuy\u1EC3n
+    c\u1EE5c di\u1EC7n tr\u1EADn \u0111\u1EA5u."

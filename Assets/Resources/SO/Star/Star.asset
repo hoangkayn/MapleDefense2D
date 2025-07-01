@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0c4e6ba67a1d4fd990209ddea73b111, type: 3}
+  m_Name: Star
+  m_EditorClassIdentifier: 
+  stars:
+  - itemRewards:
+    - count: 100
+      rewardSO: {fileID: 11400000, guid: c75d2eab789404bfe95aabad8efbc268, type: 2}
+    - count: 100
+      rewardSO: {fileID: 11400000, guid: 760e0fe936c4a4de387f53c4063b46cb, type: 2}
+    - count: 5
+      rewardSO: {fileID: 11400000, guid: addcca3a865e2434992b5c8f292af5a6, type: 2}
+  - itemRewards:
+    - count: 200
+      rewardSO: {fileID: 11400000, guid: c75d2eab789404bfe95aabad8efbc268, type: 2}
+    - count: 200
+      rewardSO: {fileID: 11400000, guid: 760e0fe936c4a4de387f53c4063b46cb, type: 2}
+    - count: 10
+      rewardSO: {fileID: 11400000, guid: addcca3a865e2434992b5c8f292af5a6, type: 2}
+  - itemRewards:
+    - count: 300
+      rewardSO: {fileID: 11400000, guid: c75d2eab789404bfe95aabad8efbc268, type: 2}
+    - count: 300
+      rewardSO: {fileID: 11400000, guid: 760e0fe936c4a4de387f53c4063b46cb, type: 2}
+    - count: 15
+      rewardSO: {fileID: 11400000, guid: addcca3a865e2434992b5c8f292af5a6, type: 2}
